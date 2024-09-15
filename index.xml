@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jongjin Kim Academic CV</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jongjin-jj-kim.github.io/</link>
+      <atom:link href="https://jongjin-jj-kim.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jongjin Kim Academic CV</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <url>https://jongjin-jj-kim.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Jongjin Kim Academic CV</title>
-      <link>http://localhost:4321/</link>
+      <link>https://jongjin-jj-kim.github.io/</link>
     </image>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/experience/</link>
+      <link>https://jongjin-jj-kim.github.io/experience/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/experience/</guid>
+      <guid>https://jongjin-jj-kim.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:4321/projects/</link>
+      <link>https://jongjin-jj-kim.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/projects/</guid>
+      <guid>https://jongjin-jj-kim.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:4321/project/pandas/</link>
+      <link>https://jongjin-jj-kim.github.io/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pandas/</guid>
+      <guid>https://jongjin-jj-kim.github.io/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:4321/project/pytorch/</link>
+      <link>https://jongjin-jj-kim.github.io/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pytorch/</guid>
+      <guid>https://jongjin-jj-kim.github.io/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:4321/project/scikit/</link>
+      <link>https://jongjin-jj-kim.github.io/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/scikit/</guid>
+      <guid>https://jongjin-jj-kim.github.io/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:4321/teaching/js/</link>
+      <link>https://jongjin-jj-kim.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/js/</guid>
+      <guid>https://jongjin-jj-kim.github.io/teaching/js/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -105,7 +105,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://jongjin-jj-kim.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -182,9 +182,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:4321/teaching/python/</link>
+      <link>https://jongjin-jj-kim.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/python/</guid>
+      <guid>https://jongjin-jj-kim.github.io/teaching/python/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -233,7 +233,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://jongjin-jj-kim.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
