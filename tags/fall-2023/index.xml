@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2023 | Jongjin Kim Academic CV</title>
+    <link>http://localhost:4321/tags/fall-2023/</link>
+      <atom:link href="http://localhost:4321/tags/fall-2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fall 2023</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Fall 2023</title>
+      <link>http://localhost:4321/tags/fall-2023/</link>
+    </image>
+    
+    <item>
+      <title>STA 2014 Fall 2023</title>
+      <link>http://localhost:4321/teaching/sta2014_fall2023/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/sta2014_fall2023/</guid>
+      <description>&lt;h1 id=&#34;principles-of-statistics-my-first-course-of-teaching&#34;&gt;Principles of Statistics: My First Course of Teaching&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In Fall 2023, I had the privilege of teaching &lt;strong&gt;STA 2014: Principles of Statistics&lt;/strong&gt; at the University of Central Florida. This course introduced students to fundamental statistical concepts, covering topics such as descriptive statistics, probability, and inferential statistics.&lt;/p&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;course-activities&#34;&gt;Course Activities&lt;/h2&gt;
+&lt;p&gt;Throughout the semester, students engaged in activities designed to deepen their understanding of statistical methods, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Weekly problem sets and quizzes.&lt;/li&gt;
+&lt;li&gt;In-class worksheets that promoted hands-on learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;selected-student-comments-from-the-student-perception-of-instruction-spi&#34;&gt;Selected Student Comments from the Student Perception of Instruction (SPI)&lt;/h2&gt;
+&lt;p&gt;I am grateful for the positive feedback from my students, which highlights the impact of my teaching approach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;I liked how nice he was and how he tried his best to explain everything.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;I&amp;rsquo;ve struggled with learning math my whole life, and the professor made learning statistics much easier.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;What I liked best about the course was how helpful my teacher was during class. Whenever I or any of my classmates had a question, he was very quick to help us either one-on-one or in front of the class.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;
+&lt;p&gt;My teaching philosophy centers around active learning. I allocate the last 10 minutes of each class for students to practice examples using worksheets, helping to reinforce the day&amp;rsquo;s concepts.&lt;/p&gt;
+&lt;h2 id=&#34;challenges-and-reflections&#34;&gt;Challenges and Reflections&lt;/h2&gt;
+&lt;p&gt;The latter part of the course relied heavily on computations using external tools. While I introduced these tools as I found them, they were not fully integrated into the course structure, which posed a challenge for both the students and myself.&lt;/p&gt;
+&lt;h2 id=&#34;spi-score&#34;&gt;SPI Score&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;pictures-of-class&#34;&gt;Pictures of Class&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/uploads/23Fall/students.jpg&#34; alt=&#34;Student Image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
